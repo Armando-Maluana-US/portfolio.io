@@ -1,4 +1,4 @@
-# portfolio.io
+# portfolio
 Data Scientist
 
 ###Summary:
